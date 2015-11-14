@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="bu.sainurdin.butreaffic.MainActivity"
-    android:background="@drawable/bg5">
+    android:background="@drawable/wallpapers_a_07">
 
     <LinearLayout
         android:orientation="vertical"
@@ -25,7 +25,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:id="@+id/listView"
-            android:layout_margin="30dp" />
+            android:layout_margin="30dp"
+            android:background="#82ffffff" />
 
     </LinearLayout>
 
